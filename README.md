@@ -1,5 +1,5 @@
 # YouTube Link 
-Assignment 2 Overview video: [https://youtu.be/wKwpyD_mzW0](url) 
+Assignment 2 Overview video: ([https://youtu.be/wKwpyD_mzW0])
 
 # AngularGrocery
 
